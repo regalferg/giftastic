@@ -1,3 +1,21 @@
 button{
 	margin:5px;
+	color:white;
+	background-color: #04aaa5
+}
+.btn-lg{
+	color:white;
+	background-color: #04aaa5
+
+}
+label{
+	font-size: 16px;
+	font-weight:bold;
+}
+#gif-input{
+	width:100%;
+}
+.gifz{
+	float: left;
+	margin: 5px;
 }

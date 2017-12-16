@@ -1,6 +1,6 @@
 // $(document).ready(function(){
 // Initial array of gifs
-var topics = ["hell of a drug", "dollar dollar bills", "shocked", "dancing"];
+var topics = ["woah","clapping", "high five", "crying","facepalm", "middle finger","hell of a drug", "dollar dollar bills", "shocked", "dancing"];
 
      function displayGifInfo() {
 
